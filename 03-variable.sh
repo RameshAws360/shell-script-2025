@@ -2,6 +2,6 @@
 
 echo " Enter your pin number ::"
 
-Read PIN
+read PIN
 
 echo "Your pin number is: $PIN"
